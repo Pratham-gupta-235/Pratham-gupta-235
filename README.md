@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🎓 CSE Undergrad @ Chitkara University (Final Year)  
+- 🎓 CSE Undergrad @ Chitkara University (First Year)  
 - 💻 Tech Stack: **C++, Python, MySQL, Machine Learning, Deep Learning, GenAI, NLP**  
 - 🌱 Currently diving into **LLM, RAGI**  
 - 🤝 Open for collaborations in **Web Apps, AI Projects & Hackathons**  
