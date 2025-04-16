@@ -1,15 +1,68 @@
+<h1 align="center">Hi there, I'm <span style="color:#4CAF50">Pratham Gupta 👨‍💻</span> 👋</h1>
+<h3 align="center">✨ Turning Ideas into Impactful Tech ✨</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-gupta-07b771326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamgupta00715@gmail.com) 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Minimal Coding GIF" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pratham-gupta-235&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pratham-gupta-235&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-gupta-235&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  🔍 Exploring tech to make the world a better place  
+  <br>🌟 Crafting beautiful, functional, and meaningful solutions  
+  <br>🛠 Always curious, always building!
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pratham-gupta-235&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🎓 CSE Undergrad @ Chitkara University (Final Year)  
+- 💻 Tech Stack: **C++, Python, MySQL, Machine Learning, Deep Learning, GenAI, NLP**  
+- 🌱 Currently diving into **LLM, RAGI**  
+- 🤝 Open for collaborations in **Web Apps, AI Projects & Hackathons**  
+- 📬 Reach out to me: [prathamgupta00715@gmail.com](mailto:prathamgupta00715@gmail.com)  
+- 🎯 Fun Fact: I turn ☕ into code and bugs into features 😄
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratham-gupta-07b771326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/pratham233545" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,cpp,mysql,python,bootstrap,git,flask,tensorflow,pytorch" />
+</p>
+
+---
+
+### 📚 Currently Learning
+
+- 🚀 Advanced DevOps (CI/CD, Docker, Kubernetes)
+- 🤖 AI & Generative Models (Transformers, NLP)
+- 🏗️ System Design & Scalable Architecture
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratham-gupta-235&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-gupta-235&layout=compact&theme=radical" width="350" />
+</p>
+
+---
+
+<p align="center">
+  ✨ Let's build the future together!<br>
+  💬 DM me for collabs, freelance work, or just a techy chat!
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=4CAF50&center=true&vCenter=true&width=435&lines=Keep+learning.;Keep+building.;Keep+growing!" />
+</p>
