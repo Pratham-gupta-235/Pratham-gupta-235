@@ -5,11 +5,11 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Minimal Coding GIF" />
 </p>
 
-<p align="center">
+<h4 align="center">
   🔍 Exploring tech to make the world a better place  
   <br>🌟 Crafting beautiful, functional, and meaningful solutions  
   <br>🛠 Always curious, always building!
-</p>
+</h4>
 
 ---
 
@@ -17,7 +17,7 @@
 
 - 🎓 CSE Undergrad @ Chitkara University (First Year)  
 - 💻 Tech Stack: **C++, Python, MySQL, Machine Learning, Deep Learning, GenAI, NLP**  
-- 🌱 Currently diving into **LLM, RAGI**  
+- 🌱 Currently diving into **LLM, RAG**  
 - 🤝 Open for collaborations in **Web Apps, AI Projects & Hackathons**  
 - 📬 Reach out to me: [prathamgupta00715@gmail.com](mailto:prathamgupta00715@gmail.com)  
 - 🎯 Fun Fact: I turn ☕ into code and bugs into features 😄
