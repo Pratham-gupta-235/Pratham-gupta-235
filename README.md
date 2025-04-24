@@ -1,5 +1,10 @@
 <h1 align="center">Hi there, I'm <span style="color:#4CAF50">Pratham Gupta 👨‍💻</span> 👋</h1>
 <h3 align="center">✨ Turning Ideas into Impactful Tech ✨</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1c0330a-e934-4723-bbb8-bde67d627f14" alt="Coding GIF" width="450"/>
+</p>
+
 <h4 align="center">
   🔍 Exploring tech to make the world a better place  
   <br>🌟 Crafting beautiful, functional, and meaningful solutions  
@@ -44,13 +49,15 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+<span align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratham-gupta-235&show_icons=true&theme=radical&hide_border=true&border_radius=20&hide_rank=false" width="420" alt="Pratham's GitHub Stats" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pratham-gupta-235&theme=radical&hide_border=true&border_radius=20" width="400" alt="Pratham's GitHub Streak" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);" />
+</span>
+
+<span align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-gupta-235&layout=compact&theme=radical&hide_border=true&border_radius=20" width="350" alt="Top Languages" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);" />
-</div>
+</span>
 
 ---
 
