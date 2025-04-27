@@ -2,7 +2,7 @@
 <h3 align="center">✨ Turning Ideas into Impactful Tech ✨</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e1c0330a-e934-4723-bbb8-bde67d627f14" alt="Coding GIF" width="450"/>
+  <img src="436895343-e1c0330a-e934-4723-bbb8-bde67d627f14.gif" alt="Coding GIF" width="450"/>
 </p>
 
 <h4 align="center">
