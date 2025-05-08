@@ -9,7 +9,7 @@
   🔍 Exploring tech to make the world a better place  
   <br>🌟 Crafting beautiful, functional, and meaningful solutions  
   <br>🛠 Always curious, always building!
-</h4>
+</h3>
 
 ---
 
