@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<h1 align="center"><b>Hello! I'm Jose Felipe Duarte</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello! I'm Pratham Gupta</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/Pratham-gupta-235/readme-typing-svg">
@@ -19,11 +19,6 @@
   <a href="https://www.linkedin.com/in/pratham-gupta-07b771326/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://reddit.com/user/PiDuart">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
-  </a>
-  <a href="https://x.com/josefdc_">
-    <img src="https://img.shields.io/badge/X(formerly%20Twitter)-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
 </p>
 
