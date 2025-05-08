@@ -1,21 +1,13 @@
-<h1 align="center">Hi there, I'm <span style="color:#4CAF50">Pratham Gupta 👨‍💻</span> 👋</h1>
-<h3 align="center">✨ Turning Ideas into Impactful Tech ✨</h3>
+<h1 align="center"><b>Hello! I'm Pratham Gupta</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="436895343-e1c0330a-e934-4723-bbb8-bde67d627f14.gif" alt="Coding GIF" width="450"/>
+  <a href="https://github.com/Pratham-gupta-235/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=cyan&size=30&center=true&vCenter=true&width=800&height=120&lines=Machine+Learning+Fanatic+🧠;Computer+Science+Student+💻;">
+  </a>
 </p>
 
-<h3 align="center">
-  🔍 Exploring tech to make the world a better place  
-  <br>🌟 Crafting beautiful, functional, and meaningful solutions  
-  <br>🛠 Always curious, always building!
-</h3>
+<br>
 
----
-
-### 🚀 About Me
-
-- 🎓 CSE Undergrad @ Chitkara University (First Year)  
 - 💻 Tech Stack: **C++, Python, MySQL, Machine Learning, Deep Learning**  
 - 🌱 Currently diving into **GenAI, NLP**  
 - 🤝 Open for collaborations in **Web Apps, AI Projects & Hackathons**  
