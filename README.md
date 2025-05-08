@@ -5,7 +5,7 @@
   <img src="436895343-e1c0330a-e934-4723-bbb8-bde67d627f14.gif" alt="Coding GIF" width="450"/>
 </p>
 
-<h4 align="center">
+<h3 align="center">
   🔍 Exploring tech to make the world a better place  
   <br>🌟 Crafting beautiful, functional, and meaningful solutions  
   <br>🛠 Always curious, always building!
