@@ -1,71 +1,54 @@
-<h1 align="center">Hi there, I'm <span style="color:#4CAF50">Pratham Gupta 👨‍💻</span> 👋</h1>
-<h3 align="center">✨ Turning Ideas into Impactful Tech ✨</h3>
+# 💫 About Me:
+
+<h1 align="center"><b>Hello! I'm Jose Felipe Duarte</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="436895343-e1c0330a-e934-4723-bbb8-bde67d627f14.gif" alt="Coding GIF" width="450"/>
+  <a href="https://github.com/Pratham-gupta-235/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=cyan&size=30&center=true&vCenter=true&width=800&height=120&lines=Machine+Learning+Fanatic+🧠;Computer+Science+Student+💻;">
+  </a>
 </p>
 
-<h3 align="center">
-  🔍 Exploring tech to make the world a better place  
-  <br>🌟 Crafting beautiful, functional, and meaningful solutions  
-  <br>🛠 Always curious, always building!
-</h3>
+<br>
 
----
-
-### 🚀 About Me
-
-- 🎓 CSE Undergrad @ Chitkara University (First Year)  
-- 💻 Tech Stack: **C++, Python, MySQL, Machine Learning, Deep Learning**  
-- 🌱 Currently diving into **GenAI, NLP**  
-- 🤝 Open for collaborations in **Web Apps, AI Projects & Hackathons**  
-- 📬 Reach out to me: [prathamgupta00715@gmail.com](mailto:prathamgupta00715@gmail.com)  
-- 🎯 Fun Fact: I turn ☕ into code and bugs into features 😄
-
----
-
-### 🌐 Connect With Me
+<div align="center">
+  I am Currently Working On Learning GenAI and Building Autonomous AI Agents 
+</div>
+🌐 Socials:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratham-gupta-07b771326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/pratham233545" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pratham-gupta-07b771326/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://reddit.com/user/PiDuart">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
+  </a>
+  <a href="https://x.com/josefdc_">
+    <img src="https://img.shields.io/badge/X(formerly%20Twitter)-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+  </a>
 </p>
 
----
-
-### 🧰 Tech Stack
+## 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,cpp,mysql,python,bootstrap,git,flask,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
----
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratham-gupta-235&theme=radical&column=7" alt="GitHub Trophies"/>
-</p>
+## 🐍 GitHub Snake
 
----
-
-### 📊 GitHub Stats
-
-<span align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham-gupta-235&show_icons=true&theme=radical&hide_border=true&border_radius=20&hide_rank=false" width="420" alt="Pratham's GitHub Stats" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);" />
-</span>
-
-<span align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-gupta-235&layout=compact&theme=radical&hide_border=true&border_radius=20" width="350" alt="Top Languages" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);" />
-</span>
-
----
-
-<p align="center">
-  ✨ Let's build the future together!<br>
-  💬 DM me for collabs, freelance work, or just a techy chat!
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=4CAF50&center=true&vCenter=true&width=435&lines=Keep+learning.;Keep+building.;Keep+growing!" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
+</picture>
