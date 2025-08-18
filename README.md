@@ -33,14 +33,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratham-gupta-235&theme=radical&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <span align="center">
